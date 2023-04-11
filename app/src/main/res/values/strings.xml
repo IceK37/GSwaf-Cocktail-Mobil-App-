@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">GSwaf</string>
+    <string name="Title">GSwaf</string>
+    <string name="Title2">Bienvenue sur GSwaf !</string>
+    <string name="image">image</string>
+    <string name="addtodislike">addToDisLike</string>
+    <string name="addtolike">addToLike</string>
+    <string name="addtolater">addToLater</string>
+    <string name="addtolist">addToList</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="more">More</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string-array name="coktail_name">
+        <item>Mojito</item>
+        <item>Cuba Libre</item>
+        <item>A Day at the Beach</item>
+        <item>A Furlong Too Late</item>
+        <item>B-52</item>
+        <item>B-53</item>
+        <item>Cafe Savoy</item>
+        <item>Caipirinha</item>
+        <item>Daiquiri</item>
+        <item>Damned if you do</item>
+        <item>Egg Cream</item>
+        <item>Egg Nog #4</item>
+        <item>Fahrenheit 5000</item>
+        <item>Figgy Thyme</item>
+        <item>Gagliardo</item>
+        <item>Garibaldi Negroni</item>
+        <item>H.D.</item>
+        <item>Halloween Punch</item>
+        <item>Ice Pick</item>
+        <item>Iced Coffee</item>
+        <item>Jack Rose Cocktail</item>
+        <item>Jack\'s Vanilla Coke</item>
+        <item>Kamikaze</item>
+        <item>Karsk</item>
+        <item>Lady Love Fizz</item>
+        <item>Lassi - A South Indian Drink</item>
+        <item>Mai Tai</item>
+        <item>Malibu Twister</item>
+        <item>National Aquarium</item>
+        <item>Negroni</item>
+        <item>Oatmeal Cookie</item>
+        <item>Old Fashioned</item>
+        <item>Paloma</item>
+        <item>Paradise</item>
+        <item>Quaker\'s Cocktail</item>
+        <item>Quarter Deck Cocktail</item>
+        <item>Radioactive Long Island Iced Tea</item>
+        <item>Radler</item>
+        <item>Salted Toffee Martini</item>
+        <item>Salty Dog</item>
+        <item>Talos Coffee</item>
+        <item>Tennesee Mud</item>
+        <item>Valencia Cocktail</item>
+        <item>Vampiro</item>
+        <item>Waikiki Beachcomber</item>
+        <item>Whiskey Sour</item>
+        <item>Yellow Bird</item>
+        <item>Yoghurt Cooler</item>
+        <item>Zambeer</item>
+        <item>Zenmeister</item>
+    </string-array>
+</resources>
